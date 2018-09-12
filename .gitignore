@@ -1,0 +1,9 @@
+*.pyc
+jupyterhub_cookie_secret
+jupyterhub.sqlite
+.ipynb_checkpoints
+.DS_Store
+.idea
+Pipfile
+Pipfile.lock
+
