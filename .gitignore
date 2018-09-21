@@ -6,4 +6,4 @@ jupyterhub.sqlite
 .idea
 Pipfile
 Pipfile.lock
-
+/data/nyc_taxi.csv
